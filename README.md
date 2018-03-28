@@ -1,22 +1,46 @@
-# [ Project Title ]
+# Digital Safety for Open Researchers
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Creating a GitBook that will help researchers work open with confidence in their digital safety!
+
 
 [ If you have one, add your logo or an image here ]
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+Digital safety and privacy threats (like doxxing and cyberbullying) can create a chilling effect on open research, academic freedom, and those who work open (especially when research is deemed controversial). Scholars from under-represented communities (particularly women and people of color) who do open work deemed “controversial,” as well as marginalized scholars doing any open work, can come under particularly vicious personal and professional online attack when their work is sensationalized and/or taken out of context. There are currently few formal resources to learn more about the issues and best practices for assessing and addressing potential threats to their digital safety and privacy.
 
-## Getting Started
+This project will produce a open educational resource (OER) for members of the higher ed community looking to mitigate digital safety threats while working and teaching open. Module examples include “Preventing and Responding to Doxxing and Cyberbullying” and “Surveillance of Scholars and Activists;” view the entire module outline here. We will follow Chad Sansing’s model of hosting our OER in GitBooks.
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+## Who We Are
+We are a team of librarians and staff from the University of Washington. Why are Libraries interested in this topic?  Libraries aspire to make sure all voices are represented and heard in the scholarly conversation. Fears of online bullying, trolling, and overall digital safety are beginning to limit our researchers from sharing their work openly and teaching open scholarship skills in the classroom. We would like to provide researchers and instructors with digital safety skills to empower them in sharing their work. Our hope is to have this OER shared and expanded on by other researchers and academic institutions. This collaborative, open effort will help us all pool our knowledge to create the best possible resource and by working open we will ensure that everyone has equitable access to this resource. We could use your help with the following:
 
-## Contributing
+Building out content for modules:
+Share your own story about a digital safety problem
+Provide expertise on digital safety and law
+Provide expertise on creating good education texts
+Provide expertise on tools and practices for digital safety
+Provide perspective from computer science, communication, journalism, activism, and other relevant fields
+Sharing successful privacy expertise and teaching exercises relevant to the module topics
+Suggestions and contributions regarding our community agreement for contributors
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Participation Guidelines
+## How to Get Involved and Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+We want everyone working on this project to feel safe and secure.  To that end, we’ve created these guidelines for contributors (which are also a starting point for developing a community agreement for contributors):
+
+Be respectful and inclusive. 
+Recognize the disparate and intersectional effect that digital safety issues have on marginalized students, teachers, and researchers
+Support and value open research.  
+Agree that any materials you submit will be made available under a CC BY NC Creative Commons License.
+Acknowledge that open researchers have a right to demand privacy outside of their open work, and also a right to choose to blend personal and professional roles.
+
+Consequences for not following these guidelines may result in:
+Editing access will be removed.
+Questionable edits will be evaluated by the editorial board and potentially removed.
+
+
+## Why Contribute to This Project?
+
+Your will be part of a collective project that can be reused.  Share your expertise with your colleagues.  Your work will be acknowledged publicly as a GitBook contributor.  A book like this does not exist for those working openly in academia.  This is your opportunity to get your foot in the door as a contributor to this innovative project.
+
 
 ## MozSprint
 
