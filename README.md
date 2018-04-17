@@ -13,7 +13,7 @@ This project will produce a open educational resource (OER) for members of the h
 We are a team of librarians and staff from the University of Washington. Why are Libraries interested in this topic?  Libraries aspire to make sure all voices are represented and heard in the scholarly conversation. Fears of online bullying, trolling, and overall digital safety are beginning to limit our researchers from sharing their work openly and teaching open scholarship skills in the classroom. We would like to provide researchers and instructors with digital safety skills to empower them in sharing their work. Our hope is to have this OER shared and expanded on by other researchers and academic institutions. This collaborative, open effort will help us all pool our knowledge to create the best possible resource and by working open we will ensure that everyone has equitable access to this resource. We could use your help with the following:
 
 1. Build out content for modules:
-  *Share your own story about a digital safety problem
+  +Share your own story about a digital safety problem
 2. Provide expertise on digital safety and law
 3. Provide expertise on creating good education texts
 4. Provide expertise on tools and practices for digital safety
