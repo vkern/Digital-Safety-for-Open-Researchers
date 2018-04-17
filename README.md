@@ -39,7 +39,12 @@ Consequences for not following these guidelines may result in:
 
 ## Why Contribute to This Project?
 
-Your will be part of a collective project that can be reused.  Share your expertise with your colleagues.  Your work will be acknowledged publicly as a GitBook contributor.  A book like this does not exist for those working openly in academia.  This is your opportunity to get your foot in the door as a contributor to this innovative project.
++ Your will be part of a collective project that can be reused.  
++ Share your expertise with your colleagues.  
++ Your work will be acknowledged publicly as a GitBook contributor.  
++ A book like this does not exist for those working openly in academia.  
+
+This is your opportunity to help us get started with this innovative project.
 
 
 ## MozSprint
