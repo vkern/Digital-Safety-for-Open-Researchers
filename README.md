@@ -26,15 +26,15 @@ We are a team of librarians and staff from the University of Washington. Why are
 
 We want everyone working on this project to feel safe and secure.  To that end, we’ve created these guidelines for contributors (which are also a starting point for developing a community agreement for contributors):
 
-Be respectful and inclusive. 
-Recognize the disparate and intersectional effect that digital safety issues have on marginalized students, teachers, and researchers
-Support and value open research.  
-Agree that any materials you submit will be made available under a CC BY NC Creative Commons License.
-Acknowledge that open researchers have a right to demand privacy outside of their open work, and also a right to choose to blend personal and professional roles.
++ Be respectful and inclusive. 
++ Recognize the disparate and intersectional effect that digital safety issues have on marginalized students, teachers, and researchers
++ Support and value open research.  
++ Agree that any materials you submit will be made available under a CC BY NC Creative Commons License.
++ Acknowledge that open researchers have a right to demand privacy outside of their open work and also a right to choose to blend personal and professional roles.
 
 Consequences for not following these guidelines may result in:
-Editing access will be removed.
-Questionable edits will be evaluated by the editorial board and potentially removed.
++ Editing access will be removed.
++ Questionable edits will be evaluated by the editorial board and potentially removed.
 
 
 ## Why Contribute to This Project?
