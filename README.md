@@ -26,7 +26,7 @@ Consequences for not following these guidelines may result in:
 + Editing access will be removed.
 + Questionable edits will be evaluated by the editorial board and potentially removed.
 
- ##How to Get Involved 
+ ## How to Get Involved 
  
  We could use your help with the following:
 
