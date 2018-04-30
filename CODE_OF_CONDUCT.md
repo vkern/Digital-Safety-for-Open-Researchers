@@ -9,7 +9,7 @@ Open communication, honesty, and consent are essential practices to ensure that 
 * Be respectful and inclusive.
 * Recognize the disparate and intersectional effects that digital safety issues have on marginalized students, teachers, and researchers.
 * Support and value open research.
-* Agree that any materials you submit will be made available under a [CC BY NC] (https://creativecommons.org/licenses/by-nc/4.0/legalcode) Creative Commons License.
+* Agree that any materials you submit will be made available under a CC BY NC <https://creativecommons.org/licenses/by-nc/4.0/legalcode> Creative Commons License.
 
 We welcome additions to this agreement by contributors and community members. ADD CONTRIBUTIONS HERE link to github issue, and/or comment on others’ contributions.
 
