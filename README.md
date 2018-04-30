@@ -3,7 +3,7 @@
 Creating a GitBook that will help researchers work open with confidence in their digital safety!
 
 
-![alt text](https://photos.app.goo.gl/bQ9iwWQqd3fC5s2v1)
+![alt text](https://lh3.googleusercontent.com/FJb_pAAj4BOc9BjIyIXyDKAvMdYhPZnyOaptO8uOXEYuIO3Z3T511RaM9ysySBpro1RABf6nhsGE2AvqXjjOYHupQK67Z3u9dP_kcfbcde1Q2B_5LwfNeOR_g-MeSSwK3-1LPRe9=w2400)
 
 Digital safety and privacy threats (like doxxing and cyberbullying) can create a chilling effect on open research, academic freedom, and those who work open (especially when research is deemed controversial). Scholars from under-represented communities (particularly women and people of color) [who do open work deemed controversial,](https://www.npr.org/sections/ed/2018/04/04/590928008/professor-harassment) as well as marginalized scholars doing any open work, can come under particularly vicious personal and professional online attack when their work is sensationalized or taken out of context. There are currently few formal resources to learn more about the issues and best practices for assessing and addressing potential threats to their digital safety and privacy.
 
