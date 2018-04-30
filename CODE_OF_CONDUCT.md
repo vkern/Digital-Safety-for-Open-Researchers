@@ -1,38 +1,19 @@
-Use the Mozilla community participation guidelines below, or write you own Code of Coduct [using this exercise](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
+
 
 ---
 
 <!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
-# Participation Guidelines
+# Our (Evolving) Community Agreement
 
-This project, participating in the Mozilla Festival, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, space wranglers, staff, volunteers, vendors, and anyone else involved in making the MozFest possible.
+Open communication, honesty, and consent are essential practices to ensure that everyone feels welcome and safe in a community. A community agreement is a tool to achieve this goal. This is a living document that changes based on suggestions from the community.  As part of our community agreement for this book project, contributors are expected to be respectful and inclusive. The current community agreement is as follows:
+* Be respectful and inclusive.
+* Recognize the disparate and intersectional effects that digital safety issues have on marginalized students, teachers, and researchers.
+* Support and value open research.
+* Agree that any materials you submit will be made available under a [CC BY NC] (https://creativecommons.org/licenses/by-nc/4.0/legalcode) Creative Commons License.
 
-## How to treat each other
+We welcome additions to this agreement by contributors and community members. ADD CONTRIBUTIONS HERE link to github issue, and/or comment on others’ contributions.
 
-* Be respectful and welcoming
-* Try to understand different perspectives
-* Do not threaten violence
-* Empower others
-* Strive for excellence
-* Don’t expect to agree with every decision
+Project members and contributors are not speaking on behalf of any organization or their employers. This project is designed to be institutionally neutral.
 
-## Inclusion and Diversity
 
-The Mozilla Project welcomes and encourages participation by everyone. It doesn’t matter how you identify yourself or how others perceive you: we welcome you.
 
-We welcome contributions from everyone as long as they interact constructively with our community, including, but not limited to people of varied age, culture, ethnicity, gender, gender-identity, language, race, sexual orientation, geographical location and religious views.
-
-Mozilla-based activities should be inclusive and should support such diversity.
-
-## Raising Issues at #mozsprint
-
-If you believe you‘re experiencing practices at #mozsprint which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Zannah Marsh.
-
-#mozsprint organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
-
-Email: askopenleadership@mozillafoundation.org 
-
-## Working in the Open
-
-Because working open is one of our core values, #mozsprint program planning is done in the open on Github (check out our repo [here](https://github.com/mozilla/global-sprint)). We hope participants will benefit from this culture of transparency and collaboration during the Festival, and will continue to work with an open ethos in their projects after #mozsprint. Learn more about [how we work open at Mozilla](https://wiki.mozilla.org/Working_open).
-<!--- END MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
