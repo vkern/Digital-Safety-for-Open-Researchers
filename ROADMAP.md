@@ -10,7 +10,7 @@ This project will produce an Open Educational Resource (OER) for members of the 
 Once you have read and agreed to, or submitted updates to, our [Community Agreement](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/CODE_OF_CONDUCT.md), you’re ready to contribute to our project.
 
 ## We could use your help with the following:
- LINK TO ISSUES
+For a complete list, please see our [issues tab](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/issues)
 
 
 ## Set timeline/milestones (goals, dates, events, timeframes--short, medium, long term)
