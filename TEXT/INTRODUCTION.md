@@ -24,7 +24,7 @@ The excitement and support surrounding open and public scholarship encourage res
 
 If a researcher is concerned that their research might make them a target for online harassment, can this create a chilling effect on academic or intellectual freedom? If a researcher has been doxxed or cyberbullied, will they think twice about what they research next? We believe that raising awareness about researchers’ digital safety and privacy is one way help to safeguard intellectual freedom in the digital age. This book is a collection of case studies that present tools and practices researchers can learn from as they consider their own digital safety. It brings together researchers who share their stories and suggest tools and practices based on their experiences. 
 
-## Additional Resources:
+### Additional Resources:
 
 * [Professor Watchlist](http://www.professorwatchlist.org/)
 * [Being Harrassed in the Wake of Milo](https://academeblog.org/2017/02/06/being-harassed-in-the-wake-of-milo/)
