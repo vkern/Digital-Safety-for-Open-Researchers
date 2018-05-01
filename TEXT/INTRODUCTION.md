@@ -1,3 +1,5 @@
+# Introduction
+
 ## Our (Evolving) Community Agreement
 
 Open communication, honesty, and consent are essential practices to ensure that everyone feels welcome and safe in a community. A community agreement is a tool to achieve this goal. This is a living document that changes based on suggestions from the community.  As part of our community agreement for this book project, contributors are expected to be respectful and inclusive. The current community agreement is as follows:
