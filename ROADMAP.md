@@ -15,39 +15,39 @@ For a complete list, please see our [issues tab](https://github.com/opendigitals
 
 ## Set timeline/milestones (goals, dates, events, timeframes--short, medium, long term)
 ### Weeks 1-2
-*Create curriculum outline
-*Talk to our users through survey and interviews!
+* Create curriculum outline
+* Talk to our users through survey and interviews!
 
 ### Week 3
-*Define scope and number of modules Week 3 
+* Define scope and number of modules Week 3 
 
 ### Week 4
-*Set structure of the curriculum 
-*Decide on a hosting platform.  If necessary, start learning how to use it 
-*Post documents for contributors
+* Set structure of the curriculum 
+* Decide on a hosting platform.  If necessary, start learning how to use it 
+* Post documents for contributors
 
 ### Week 5-8
-*Solicit feedback from a privacy expert and a curriculum expert
-*List of people from whom we’ll request feedback
-*Set guidelines for contributors and what we are looking for
+* Solicit feedback from a privacy expert and a curriculum expert
+* List of people from whom we’ll request feedback
+* Set guidelines for contributors and what we are looking for
 Community agreement
-*Way of enforcing community agreement
-*Instructions for how to contribute
-*Public-facing platform complete in beta
+* Way of enforcing community agreement
+* Instructions for how to contribute
+* Public-facing platform complete in beta
 
 ### Week 7-9
-*Put out a formal call for contributors and beta testers at Mozilla Global Sprint, May 10-12
-*Marketing: Put out a call to the UW Community for expert help during the Global Sprint
-*Add content to draft module on doxing
-*Interview for and compile case study
+* Put out a formal call for contributors and beta testers at Mozilla Global Sprint, May 10-12
+* Marketing: Put out a call to the UW Community for expert help during the Global Sprint
+* Add content to draft module on doxing
+* Interview for and compile case study
 
 ### Week 10-12
-*Post content drafted to GitBooks
-*Set up GitHub pages for contributors to use for sharing/updating content
+* Post content drafted to GitBooks
+* Set up GitHub pages for contributors to use for sharing/updating content
 
 ## Middle Term Goal
-*Hackathon with experts from UW campus to contribute to the toolkit
-*Develop assessment for the project
+* Hackathon with experts from UW campus to contribute to the toolkit
+* Develop assessment for the project
 
 ## Long Term Goal
-*Turn modules into an Open Textbook 
+* Turn modules into an Open Textbook 
