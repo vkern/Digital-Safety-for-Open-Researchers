@@ -1,7 +1,7 @@
 # Developing Your Scholarly Identity
 
 ## Defining the Problem
-**Personal vs. work identities--should they combine?  Should they stay separate?**
+*Personal vs. work identities--should they combine?  Should they stay separate?*
 
 ## Learning Objectives
 
