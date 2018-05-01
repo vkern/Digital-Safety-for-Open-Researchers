@@ -4,7 +4,7 @@
 
 Researchers working open may lack sufficient understanding of digital safety. This lack of understanding may result in withdrawing from open work due to fears of being doxxed or being trolled online. For the purposes of this chapter, we use [femtechnet’s definitions of doxxing and cyberbullying](http://femtechnet.org/csov/csov-key-termsdefinitions/). Doxxing is the act of publishing someone’s personal information, for which there would normally be a reasonable expectation of privacy and which has dubious value to the conversation, in a place or way that implies or encourages intimidation or threats. Cyberbullying is defined as “bullying that is conducted in an online setting.” This can be done by sending harassing messages to the victim, blackmailing the victim, spreading rumors about or shaming the victim using social media, or manipulating the victim using fake profiles or social media accounts.  
 
-Learning Objectives
+## Learning Objectives
 
 The goal of this chapter is to take a close examination of the process and impacts of cyberbullying and doxxing of researchers and to offer some tips and tools to help mitigate risk.
 
