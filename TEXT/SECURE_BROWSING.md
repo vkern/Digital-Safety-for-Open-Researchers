@@ -6,8 +6,18 @@
 
 ## Case Study 1
 
+### Discussion Questions
+
+### Highlighted Tools & Resources
+
 ## Case Study 2
 
-## Suggested Resources
+### Discussion Questions
 
-## Readings
+### Hightlighted Tools & Resources
+
+## Additional Resources
+
+## Lesson Plans
+
+## See All Suggested Tools & Practices in This Chapter
