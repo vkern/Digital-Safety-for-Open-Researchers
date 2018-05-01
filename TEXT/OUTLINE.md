@@ -1,7 +1,7 @@
 ## [Introduction](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/TEXT/INTRODUCTION.md)
 * [Our (Evolving) Community Agreement](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/CODE_OF_CONDUCT.md)
 * Threat of Digital Safety to Open Work in Academia
-* Additional Resources
+ * Additional Resources
 * Who is this book for?
 * How to use this book
 
