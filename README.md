@@ -32,6 +32,8 @@ Consequences for not following these guidelines may result in:
 
 + Build out content for modules:
   + Share your own story about a digital safety problem
+  + Add information to our Tools sections
+  + Write annotations for articles and other resources in our Resources sections
 + Provide expertise on digital safety and law
 + Provide expertise on creating good education texts
 + Provide expertise on tools and practices for digital safety
