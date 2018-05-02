@@ -58,7 +58,7 @@ In Alison’s story, she mentions several tools and practices that she employed 
 Having an adversarial mindset about the internet means researching different website and online services, and deciding which may put you at what you decide is an unacceptable level of risk. For Alison, this means not using Facebook and carefully considering what information she posts on other sites. Consider that personally compromising information can be extracted from even innocuous-seeming images. For example, Alison told us that the doxxers from 8chan used a picture she posted that showed bridge near her house, with graffiti, to identify her location.
   * The Electronic Freedom Foundation provides this [threat modeling exercise](https://ssd.eff.org/en/module/assessing-your-risks), which you can use to think further about having an adversarial mindset with the internet.
 * *Tor* The Tor browser offers several features: you can browse the internet without other people being able to see which sites you visit, it prevents sites that you visit from learning your physical location, and it allows you to visit sites that are blocked. 
-* You can [get started with Tor here](https://www.torproject.org/projects/torbrowser.html.en).
+  * You can [get started with Tor here](https://www.torproject.org/projects/torbrowser.html.en).
 
 * Data brokers
 * Securing passwords
