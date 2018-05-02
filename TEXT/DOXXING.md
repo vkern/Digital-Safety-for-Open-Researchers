@@ -41,7 +41,7 @@ Even though Alison had taught these practices--and even though she felt confiden
 After that week, these people became bored, and they eventually gave up on their doxing and moved along to a new, easier target.
 
 
-  ### Discussion Questions
+### Discussion Questions
 
 * Alison took some significant steps to reign in her digital footprint.  How do you feel about the balance between being connected online vs. protecting your digital safety?  How much risk is within your comfort zone?
 
@@ -50,7 +50,7 @@ After that week, these people became bored, and they eventually gave up on their
 * Based on Alison’s story, what steps would you take to mitigate your own risk of being doxxed?
 
 
-  ### Highlighted Tools and Practices
+### Highlighted Tools and Practices
 
 In Alison’s story, she mentions several tools and practices that she employed to protect her privacy and security online. These tools and practices made her hard to dox, and ultimately led the doxxers from 8chan to give up and move on to other targets. Read this section to learn more about four highlighted tools and practices: using the Tor browser, removing information from data brokers, securing passwords, and maintaining an “adversarial mindset” about the internet. How and when you use these tools and practices depends on what level of risk you have personally decided is acceptable given your work, your identity, and your tolerance level for danger. This is also a process and you can gradually increase your use of privacy and security tools.  
 
