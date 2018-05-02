@@ -60,7 +60,7 @@ Having an adversarial mindset about the internet means researching different web
 * *Tor* The Tor browser offers several features: you can browse the internet without other people being able to see which sites you visit, it prevents sites that you visit from learning your physical location, and it allows you to visit sites that are blocked. 
   * You can [get started with Tor here](https://www.torproject.org/projects/torbrowser.html.en).
 
-* *Data brokers* There are many sites that aggregate and create profiles of your information. Many agencies and companies find this information and further share it. This is a short list of data brokers that you can opt out of:
+* *Data brokers* There are many sites that aggregate and create profiles of your information. Many agencies and companies find this information and further share it. Here is an example of a data brokers that you can opt out of.
   * Spokeo aggregates publicly available information and creates extensive profiles on individuals, often including personal information like address, age and family members. To remove your listing from Spokeo, first find your profile on Spokeo.com, then visit [https://www.spokeo.com/optout](https://www.spokeo.com/optout). 
 * Securing passwords
   * LastPass
