@@ -19,7 +19,7 @@ For a complete list, please see our [issues tab](https://github.com/opendigitals
 * Talk to our users through survey and interviews!
 
 ### Week 3
-* Define scope and number of modules Week 3 
+* Define scope and number of modules 
 
 ### Week 4
 * Set structure of the curriculum 
@@ -38,7 +38,7 @@ Community agreement
 ### Week 7-9
 * Put out a formal call for contributors and beta testers at Mozilla Global Sprint, May 10-12
 * Marketing: Put out a call to the UW Community for expert help during the Global Sprint
-* Add content to draft module on doxing
+* Add content to draft module on doxxing
 * Interview for and compile case study
 
 ### Week 10-12
