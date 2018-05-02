@@ -61,7 +61,7 @@ Having an adversarial mindset about the internet means researching different web
   * You can [get started with Tor here](https://www.torproject.org/projects/torbrowser.html.en).
 
 * *Data brokers* There are many sites that aggregate and create profiles of your information. Many agencies and companies find this information and further share it. This is a short list of data brokers that you can opt out of:
- * Spokeo aggregates publicly available information and creates extensive profiles on individuals, often including personal information like address, age and family members. To remove your listing from Spokeo, first find your profile on Spokeo.com, then visit [https://www.spokeo.com/optout](https://www.spokeo.com/optout). 
+  * Spokeo aggregates publicly available information and creates extensive profiles on individuals, often including personal information like address, age and family members. To remove your listing from Spokeo, first find your profile on Spokeo.com, then visit [https://www.spokeo.com/optout](https://www.spokeo.com/optout). 
 * Securing passwords
   * LastPass
   * Two-factor authentication
