@@ -12,7 +12,7 @@ The goal of this chapter is to take a close examination of the process and impac
 
 ### Introduction
 
-Alison Macrina is the founder of the [Library Freedom Project](https://libraryfreedomproject.org/) where she offers regular trainings on  topics related to digital safety and online privacy and security.
+For this case study, we interviewed Alison Macrina.  Alison is the founder of the [Library Freedom Project](https://libraryfreedomproject.org/) where she offers regular trainings on topics related to digital safety and online privacy and security.
 
 ### Privacy and security:
 
