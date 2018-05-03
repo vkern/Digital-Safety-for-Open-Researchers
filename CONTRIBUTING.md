@@ -32,11 +32,11 @@ This collaborative, open effort will help us pool our knowledge to create the be
 
 We could use your help with the following: 
 
->:arrow_right: Build out content for modules: Share your own story about a digital safety problem, Share successful privacy expertise, teaching exercises, or lesson plans relevant to the module topics
+>:arrow_right: **Build out content for modules:** Share your own story about a digital safety problem, Share successful privacy expertise, teaching exercises, or lesson plans relevant to the module topics
 
->:arrow_right: Provide expertise on: digital safety and law, creating good education texts, tools and practices for digital safety
+>:arrow_right: **Provide expertise on:** digital safety and law, creating good education texts, tools and practices for digital safety
 
->:arrow_right: Provide perspectives from various fields: computer science, communication, journalism, activism, and other relevant fields
+>:arrow_right: **Provide perspectives from various fields:** computer science, communication, journalism, activism, and other relevant fields
 
 >:arrow_right: Contribute to our community agreement
 
