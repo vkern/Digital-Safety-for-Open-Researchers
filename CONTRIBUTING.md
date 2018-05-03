@@ -1,7 +1,10 @@
 # How To Contribute to Digital Safety for Open Researchers
 
 Thank you for your interest in contributing to Digital Safety for Open Researchers :tada:!
->Restate your project vision here. Redundancy is your friend. 
+>We couldn't do this without you, your expertise, and your experiences.
+
+Restate your project vision here. Redundancy is your friend
+>[Project] is ...
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
