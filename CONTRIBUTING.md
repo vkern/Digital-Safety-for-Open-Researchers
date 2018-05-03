@@ -56,5 +56,5 @@ We want to be sure that you are thanked and acknowledged for the work you do con
 ## Communication channels
 
 Email: opendigitalsafety@gmail.com
-Twitter: [@opendigsafety](https://twitter.com/OpenDigSafety)
+<br>Twitter: [@opendigsafety](https://twitter.com/OpenDigSafety)
 
