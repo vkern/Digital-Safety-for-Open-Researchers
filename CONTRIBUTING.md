@@ -20,7 +20,7 @@ If your guide is long, consider adding a table of contents.
 
 ## Participation guidelines
 
-This project adheres to an evolving [community agreement](COMMUNITY_AGREEMENT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [opendigitalsafety@gmail.com].
+This project adheres to an evolving [community agreement](COMMUNITY_AGREEMENT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to opendigitalsafety@gmail.com.
 
 ## What we're working on
 
