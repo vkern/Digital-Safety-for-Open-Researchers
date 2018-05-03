@@ -27,7 +27,6 @@ Consequences for not following these guidelines may result in:
 + Questionable edits will be evaluated by the editorial board and potentially removed.
 
  ## How to Get Involved 
- ![Video describing the Digital Safety for Open Researchers project](https://www.wevideo.com/view/1132880077)
  
  We could use your help with the following:
 
