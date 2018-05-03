@@ -12,7 +12,7 @@
 
 >This document is a set of guidelines for contributing to Digital Safety for Open Researchers on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved! You can also explore some of the benefits of contributing to this project. If you have any comments or questions, please contact opendigitalsafety@gmail.com.
 
-If your guide is long, consider adding a table of contents.
+**Table of Contents**
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
