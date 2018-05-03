@@ -15,7 +15,7 @@
 **Table of Contents**
 
 * [Participation guidelines](#participation-guidelines)
-* [What we're working on & how you can help!](#https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/CONTRIBUTING.md#what-were-working-on--how-you-can-help)
+* [What we're working on & how you can help!](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/CONTRIBUTING.md#what-were-working-on--how-you-can-help)
 * [How to submit changes](#how-to-submit-changes)
 * [Recognizing contributors](#recognizing-contributors)
 * [Communication channels](#communication-channels)
