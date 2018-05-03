@@ -26,19 +26,19 @@ This project adheres to an evolving [community agreement](COMMUNITY_AGREEMENT.md
 
 ## What we're working on & how you can help!
 
-We invite collaborators to contribute expertise and stories to our OER.  Different skills will be needed to contribute to different portions of our project. Our hope is to have this [GitBook OER](https://digital-safety-for-open-research.gitbook.io/project/) shared and expanded on by other researchers and academic institutions. 
+We invite collaborators to contribute expertise and stories to our OER. Different skills will be needed to contribute to different portions of our project. Our hope is to have this [GitBook OER](https://digital-safety-for-open-research.gitbook.io/project/) shared and expanded on by other researchers and academic institutions.</br> 
 
 This collaborative, open effort will help us pool our knowledge to create the best possible resource and by working open we will ensure that everyone has equitable access to this resource. 
 
 We could use your help with the following: 
 
-:arrow_right: Build out content for modules: Share your own story about a digital safety problem, Share successful privacy expertise, teaching exercises, or lesson plans relevant to the module topics
+<br>:arrow_right: Build out content for modules: Share your own story about a digital safety problem, Share successful privacy expertise, teaching exercises, or lesson plans relevant to the module topics
 
 :arrow_right: Provide expertise on: digital safety and law, creating good education texts, tools and practices for digital safety
 
 :arrow_right: Provide perspectives from various fields: computer science, communication, journalism, activism, and other relevant fields
 
-:arrow_right: Contribute to our community agreement
+:arrow_right: Contribute to our community agreement</br>
 
 Take a look at our [current issues](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/issues) to see how you can contribute to our project.
 >If you'd like an easy way to get started helping with our project, view our [good first issues](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
