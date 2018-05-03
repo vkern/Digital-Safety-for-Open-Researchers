@@ -6,9 +6,9 @@
 **Our Project Vision**
 >[Project] is ...
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+**Why should I read the contributor guidelines?**
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>This documents is a set of guidelines for contributing to Digital Safety for Open Researchers on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved! You can also explore some of the benefits of contributing to this agreement. If you have any comments or questions, please contact opendigitalsafety@gmail.com.
 
 If your guide is long, consider adding a table of contents.
 
