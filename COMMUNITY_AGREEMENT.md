@@ -11,7 +11,7 @@ Open communication, honesty, and consent are essential practices to ensure that 
 * Support and value open research.
 * Agree that any materials you submit will be made available under a [CC BY NC](https://creativecommons.org/licenses/by-nc/4.0/legalcode) Creative Commons License.
 
-We welcome additions to this agreement by contributors and community members. ADD CONTRIBUTIONS HERE link to github issue, and/or comment on others’ contributions.
+[We welcome additions to this agreement by contributors and community members](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/issues/4). 
 
 Project members and contributors are not speaking on behalf of any organization or their employers. This project is designed to be institutionally neutral.
 
