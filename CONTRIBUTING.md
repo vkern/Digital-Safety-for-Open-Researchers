@@ -1,6 +1,6 @@
 # How To Contribute to Digital Safety for Open Researchers
 
-Thank you for your interest in contributing to Digital Safety for Open Researchers :tada:!
+**Thank you for your interest in contributing to Digital Safety for Open Researchers :tada:!**
 >We couldn't do this without you, your expertise, and your experiences.
 
 **Our Project Vision**
