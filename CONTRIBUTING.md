@@ -15,9 +15,9 @@
 **Table of Contents**
 
 * [Participation guidelines](#participation-guidelines)
-* [What we're working on & how you can help!](#what-were-working-on)
+* [What we're working on & how you can help!](#what-were-working-on-&-how-you-can-help!)
 * [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
+* [Recognizing contributors](#recognizing-contributors)
 * [Communication channels](#communication-channels)
 
 ## Participation guidelines
@@ -45,19 +45,16 @@ Feel free to send information about our project to individuals you know that mig
 
 ## How to submit changes
 
-To submit changes or additional content to our project, please explore our [issues](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/issues) tab. Each issue will provide details on how you can contribute to a particular piece of the project. In many cases, you will be asked to comment on the issue or email us your edits to opendigitalsafety@gmail.com for the project leaders to review.
+To submit changes or additional content to our project, please explore our [issues](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/issues) tab. Each issue will provide details on how you can contribute to a particular piece of the project. In many cases, you will be asked to comment on the issue or email us your edits to opendigitalsafety@gmail.com for the project leaders to review. If you notice a problem with any portion of our GitHub page or our GitBook page, please email us.
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-## How to report bugs
+## Recognizing contributors
 
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+We want to be sure that you are thanked and acknowledged for the work you do contributing to this project. Depending on your contribution, we can show our gratitude to you in some of the following ways: we can assist with your project in return, we can help spread the word about your project, we can list your name among project contributors, and in other ways. We also want to hear from YOU about how we can thank you for your contribution. If you have ideas or requests, please email opendigitalsafety@gmail.com.
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+Email: opendigitalsafety@gmail.com
+Twitter: [@opendigsafety](https://twitter.com/OpenDigSafety)
 
