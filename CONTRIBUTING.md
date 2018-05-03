@@ -1,10 +1,7 @@
 # How To Contribute to Digital Safety for Open Researchers
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
-
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+Thank you for your interest in contributing to Digital Safety for Open Researchers :tada:!
+>Restate your project vision here. Redundancy is your friend. 
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
