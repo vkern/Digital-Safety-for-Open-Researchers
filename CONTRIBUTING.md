@@ -4,7 +4,9 @@
 >We couldn't do this without you, your expertise, and your experiences.
 
 **Our Project Vision**
->[Project] is ...
+>Researchers who make their work publicly accessible, especially those from underrepresented or marginalized communities, can come under [vicious personal and professional online attack](https://www.npr.org/sections/ed/2018/04/04/590928008/professor-harassment). This can be a real issue for those who research topics the public may define as controversial. Currently, there are few academic institutions proactively working to educate researchers on digital safety, and many researchers are unsure of how to prevent or remedy attacks on their digital privacy. As project leaders, we believe that raising awareness about researchers’ digital safety and privacy is one way help to safeguard intellectual freedom in the digital age. 
+
+>Digital Safety for Open Researchers will produce an open educational resource (OER) for members of the higher education community looking to mitigate digital safety threats while working and teaching open. Digital Safety for Open Researchers will be a living collection of case studies that present tools and practices researchers can learn from as they consider their own digital safety. It will bring together researchers who share their stories and suggest tools and practices based on their experiences. 
 
 **Why should I read the contributor guidelines?**
 
