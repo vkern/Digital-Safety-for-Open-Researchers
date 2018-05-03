@@ -62,10 +62,10 @@ Having an adversarial mindset about the internet means researching different web
 
 * *Data brokers* There are many sites that aggregate and create profiles of your information. Many agencies and companies find this information and further share it. Here is an example of a data brokers that you can opt out of.
   * Spokeo aggregates publicly available information and creates extensive profiles on individuals, often including personal information like address, age and family members. To remove your listing from Spokeo, first find your profile on Spokeo.com, then visit [https://www.spokeo.com/optout](https://www.spokeo.com/optout). 
-* Securing passwords
-  * LastPass
+* *Securing passwords* Here are several methods that can be used to create a more secure password.
+  * Diceware method: The diceware method will give you a random password that is extremely difficult to guess yet easy to remember. Use the [Diceware word list](http://world.std.com/~reinhold/dicewarewordlist.pdf) and a dice. Roll your dice five times, writing down each number (or, if you have five dice, you can roll them at the same time). Take the numbers you rolled and find the number that corresponds with the dice-index password list and write down the word next to it.  For example, if I rolled 1-1-5-2-1, I would write down “akron” from the dice-index password list. Repeat steps 1 and 2 a total of 6 to 7 times for a super secure password.  
   * Two-factor authentication
-  * Diceware method
+  * LastPass
 
 
 ## Case Study 2
