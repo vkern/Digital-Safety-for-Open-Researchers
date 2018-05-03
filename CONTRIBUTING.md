@@ -1,4 +1,4 @@
-# Contributing to Digital Safety for Open Researchers!
+# How To Contribute to Digital Safety for Open Researchers
 
 Add a bit of welcome and cheer at the top
 >Thank you for your interest in contributing to [Project] :tada:! 
