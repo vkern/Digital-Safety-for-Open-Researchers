@@ -24,8 +24,9 @@
 
 This project adheres to an evolving [community agreement](COMMUNITY_AGREEMENT.md). By participating, you are expected to uphold this agreement. Please report unacceptable behavior to opendigitalsafety@gmail.com.
 
-## What we're working on
+## What we're working on & how you can help!
 
+Take a look at our [current issues](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/issues) to see how you can contribute to our project.
 This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
 
 > Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
