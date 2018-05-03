@@ -26,7 +26,8 @@ This project adheres to an evolving [community agreement](COMMUNITY_AGREEMENT.md
 
 ## What we're working on & how you can help!
 
-We invite collaborators to contribute expertise and stories to our OER. Different skills will be needed to contribute to different portions of our project. Our hope is to have this [GitBook OER](https://digital-safety-for-open-research.gitbook.io/project/) shared and expanded on by other researchers and academic institutions. 
+We invite collaborators to contribute expertise and stories to our OER. 
+Different skills will be needed to contribute to different portions of our project. Our hope is to have this [GitBook OER](https://digital-safety-for-open-research.gitbook.io/project/) shared and expanded on by other researchers and academic institutions. 
 
 This collaborative, open effort will help us pool our knowledge to create the best possible resource and by working open we will ensure that everyone has equitable access to this resource. 
 
