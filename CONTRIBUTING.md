@@ -15,7 +15,7 @@
 **Table of Contents**
 
 * [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
+* [What we're working on & how you can help!](#what-were-working-on)
 * [How to submit changes](#how-to-submit-changes)
 * [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
