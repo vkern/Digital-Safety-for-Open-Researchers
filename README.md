@@ -27,6 +27,8 @@ Consequences for not following these guidelines may result in:
 + Editing access will be removed.
 + Questionable edits will be evaluated by the editorial board and potentially removed.
 
+Please review our [contributor guidelines](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/COMMUNITY_AGREEMENT.md) prior to working on this project.
+
  ## How to Get Involved 
  
  We could use your help with the following:
