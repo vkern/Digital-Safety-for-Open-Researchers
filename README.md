@@ -54,8 +54,8 @@ Please review our [contributor guidelines](https://github.com/opendigitalsafety/
 This is your opportunity to help us get started with this innovative project.
 
 ## Contact Information
-+Email: opendigitalsafety@gmail.com
-+Twitter: [@OpenDigSafety](https://twitter.com/OpenDigSafety)
+Email: opendigitalsafety@gmail.com
+<br>Twitter: [@OpenDigSafety](https://twitter.com/OpenDigSafety)
 
 
 ## MozSprint
