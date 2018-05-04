@@ -1,6 +1,6 @@
 # Digital Safety for Open Researchers
 
-We're creating a GitBook OER that will help researchers work open with confidence in their digital safety!
+We're creating a [GitBook OER](https://digital-safety-for-open-research.gitbook.io/project/) that will help researchers work open with confidence in their digital safety!
 
 
 ![Image of life preserver and open access logo on an orange background. Text reads "Digital Safety for Open Researchers"](https://lh3.googleusercontent.com/FJb_pAAj4BOc9BjIyIXyDKAvMdYhPZnyOaptO8uOXEYuIO3Z3T511RaM9ysySBpro1RABf6nhsGE2AvqXjjOYHupQK67Z3u9dP_kcfbcde1Q2B_5LwfNeOR_g-MeSSwK3-1LPRe9=w2400)
