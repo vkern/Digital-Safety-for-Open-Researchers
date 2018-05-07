@@ -67,11 +67,26 @@ Having an adversarial mindset about the internet means researching different web
   * LastPass: Once you have your super secure password, the next step you can take is to set up an account with [LastPass](https://lastpass.com/getlastpassygg.php?&mcomb=swEmdiX5l%7C246416597897%7Clastpass%7Ce%7Ci8rbbhb5l0%7Cc&cvosrc=ppc.google.lastpass&cvo_campaign=%7Bcampid%7D&cvo_crid=246416597897&Matchtype=e&gclid=EAIaIQobChMIzNaAqtTu2QIVjpx-Ch1rqgcdEAAYASAAEgJ6TvD_BwE), which is a password manager. With LastPass, you will be able to make sure that you have individual and unusual passwords for all the sites you use, and you will use your super secure password (the one you made with the diceware method) to log in and out of LastPass. 
 
 
-## Case Study 2
+## Case Study 2: Mental Health and Resilience
 
   ### Discussion Questions
   
   ### Highlighted Tools and Practices
+  
+  
+## Case Study 3: Legal Aspects of Cyberbullying
+
+  ### Discussion Questions
+  
+  ### Highlighted Tools and Practices
+  
+  
+## Case Study 3: Someone Who Was Doxxed
+
+  ### Discussion Questions
+  
+  ### Highlighted Tools and Practices
+  
 
 ## Additional Resources
 
