@@ -1,4 +1,4 @@
-# Digital Safety for Open Researchers
+# Digital Safety for Open Researchers2
 
 We're creating a [GitBook OER](https://digital-safety-for-open-research.gitbook.io/project/) that will help researchers work open with confidence in their digital safety!
 
