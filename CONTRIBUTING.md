@@ -54,6 +54,7 @@ To submit changes or additional content to our project, please explore our [issu
 
 We want to be sure that you are thanked and acknowledged for the work you do contributing to this project. Depending on your contribution, we can show our gratitude to you in some of the following ways: we can assist with your project in return, we can help spread the word about your project, we can list your name among project contributors, and in other ways. 
 >We want to hear from YOU about how we can thank you for your contribution. If you have ideas or requests, please email opendigitalsafety@gmail.com.
+>If you feel comfortable, add your name to our [Acknowledgements](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/TEXT/ACKNOWLEDGEMENTS.md) section of our online text!
 
 ## Communication channels
 
