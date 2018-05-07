@@ -74,19 +74,22 @@ Having an adversarial mindset about the internet means researching different web
   ### Highlighted Tools and Practices
   
   
+  
 ## Case Study 3: Legal Aspects of Cyberbullying
 
   ### Discussion Questions
   
   ### Highlighted Tools and Practices
+
+
   
-  
-## Case Study 3: Someone Who Was Doxxed
+## Case Study 4: Someone Who Was Doxxed
 
   ### Discussion Questions
   
   ### Highlighted Tools and Practices
   
+
 
 ## Additional Resources
 
